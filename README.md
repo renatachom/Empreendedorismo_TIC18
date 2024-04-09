@@ -5,7 +5,7 @@
 
 ## Descrição
 
-Bem-vindo ao repositório pessoal de Renata Chaves de Oliveira Moreno dedicado ao módulo de Java Avançado!
+Bem-vindo ao repositório pessoal de Renata Chaves de Oliveira Moreno dedicado do módulo de empreendedorismo.
 
 ## Contato
 
